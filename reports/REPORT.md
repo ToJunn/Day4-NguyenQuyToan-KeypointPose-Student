@@ -61,7 +61,7 @@ Trường `comparison` trong cả hai file visibility JSON đều là `null`, ch
 | --- | ---: | ---: | ---: | --- |
 | Chưa xác định | Chưa có bảng so sánh | Chưa có dữ liệu | Chưa tính được | Chưa đủ bằng chứng |
 
-**Luật mới đã bổ sung vào `GUIDELINE_MINI.md` sau khi thống nhất:** chưa có nội dung được điền trong phần luật nhóm và kiểm chéo của [GUIDELINE_MINI.md](../GUIDELINE_MINI.md), nên chưa thể ghi nhận một quy tắc đã được thống nhất.
+**Luật mới đã bổ sung vào `GUIDELINE_MINI.md` sau khi thống nhất:** [GUIDELINE_MINI.md](../GUIDELINE_MINI.md) đã có quy tắc dự thảo, ảnh minh họa và ba ca đối chiếu từ nhãn hiện có; chưa có xác nhận kiểm chéo nên chưa thể ghi nhận một quy tắc đã được nhóm thống nhất.
 
 Đề xuất để nhóm xem xét: khi khớp bị vật thể hoặc cơ thể khác che nhưng vị trí suy ra từ đoạn chi liền kề vẫn nằm trong ảnh, giữ điểm và chọn v=1; khi khớp nằm ngoài biên ảnh, chọn v=0. Cần kèm ảnh minh họa và xác nhận của người kiểm chéo trước khi ghi thành luật nhóm.
 
